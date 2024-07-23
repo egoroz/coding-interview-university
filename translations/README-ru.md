@@ -187,7 +187,7 @@ Google не возьмёт тебя на работу.
 
 - [x] Создай новую ветку и тогда ты сможешь оставлять отметки у элементов списка, просто добавляя x внутрь скобок: [x]
 
-       Скопируй репозиторий и выполни команды перечисленные ниже
+       [x] Скопируй репозиторий и выполни команды перечисленные ниже
 
 `git checkout -b progress`
 
@@ -195,7 +195,7 @@ Google не возьмёт тебя на работу.
 
 `git fetch --all`
 
-    Mark all boxes with X after you completed your changes
+    [x] Mark all boxes with X after you completed your changes
 
 `git add . `
 
