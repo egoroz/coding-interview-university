@@ -256,12 +256,12 @@ Google не возьмёт тебя на работу.
 
 ## Процесс собеседования & Основное в подготовке к интервью
 
-- [ ] Видео:
+- [x] Видео:
     - [x] [Как работать в Google: Подготовка к собеседованию на позицию инженера (видео)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
     - [x] [Как работать в Google: Пример кодирования/Собеседование инженера (видео)](https://www.youtube.com/watch?v=XKu_SEDAykw)
     - [n] [Как работать в Google - Подготовка кандидатов (видео)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
-    - [ ] [Советы для технического собеседования от рекрутеров из Google (видео)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
-    - [ ] [Как работать в Google: Подготовка технического резюме (видео)](https://www.youtube.com/watch?v=8npJLXkcmu8)
+    - [x] [Советы для технического собеседования от рекрутеров из Google (видео)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+    - [n] [Как работать в Google: Подготовка технического резюме (видео)](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 - [ ] Статьи:
     - [ ] [Стать гуглером за три шага](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
