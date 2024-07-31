@@ -280,7 +280,7 @@ Google не возьмёт тебя на работу.
     - [ ] [Кодирование на доске](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [Что думает Google о найме, управлении и культуре](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
     - [ ] Прохождения собеседования по программированию набор 1:
-        - [ ] [Gayle L McDowell - Прохождения собеседования по программированию (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+        - [p] [Gayle L McDowell - Прохождения собеседования по программированию (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
         - [ ] [Прохождения собеседования по программированию с Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
     - [ ] Как получить работу в большой четверке:
         - [ ] ['Как получить работу в большой четверке - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
@@ -538,13 +538,13 @@ Google не возьмёт тебя на работу.
 
 - [ ] **Изучайте C**
     - С используется везде. Вы встретите примеры в книгах, лекциях, видео, везде, пока вы будете учиться.
-    - [ ] [Язык программирования С, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+    - [b] [Язык программирования С, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - Это небольшая книга, но после ее прочтения вы получите необходимые знания по С и если будете практиковать, 
         то достаточно быстро его освоите. Понимание С поможет вам понять как работают программы и память. 
         - [ответы на вопросы](https://github.com/lekkas/c-algorithms) 
 
 - [ ] **Как компьютеры выполняют программу:**
-    - [ ] [Как CPU выполняет программы (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [Как CPU выполняет программы (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [ ] [Коды машинных инструкций(video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Сложность алгоритмов, Big-O, Асимптотический анализ
