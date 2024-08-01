@@ -545,7 +545,7 @@ Google не возьмёт тебя на работу.
 
 - [ ] **Как компьютеры выполняют программу:**
     - [x] [Как CPU выполняет программы (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Коды машинных инструкций(video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+    - [x] [Коды машинных инструкций(video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Сложность алгоритмов, Big-O, Асимптотический анализ
 - [ ] [Harvard CS50 - Асимптотическая нотация (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
